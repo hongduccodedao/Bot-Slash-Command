@@ -1,4 +1,4 @@
 {
-    "token": "OTI1OTA0MDM4NTczMjY5MDAz.Ycz5VQ.UdAr7_9XmLFUyaiVwrtCP16p-G4",
-    "Database": "mongodb+srv://hongducyb:Hd051002@hongduccodedao.eev6k.mongodb.net/hongduccodedao?retryWrites=true&w=majority"
+    "token": "token-bot",
+    "Database": "MongoDB"
 }
